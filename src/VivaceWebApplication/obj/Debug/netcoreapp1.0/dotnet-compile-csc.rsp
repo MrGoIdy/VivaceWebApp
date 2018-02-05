@@ -231,6 +231,7 @@
 "D:\Projects\Work\VivaceWebApplication\src\VivaceWebApplication\Controllers\AccountController.cs"
 "D:\Projects\Work\VivaceWebApplication\src\VivaceWebApplication\Controllers\HomeController.cs"
 "D:\Projects\Work\VivaceWebApplication\src\VivaceWebApplication\Controllers\ManageController.cs"
+"D:\Projects\Work\VivaceWebApplication\src\VivaceWebApplication\Controllers\NastiController.cs"
 "D:\Projects\Work\VivaceWebApplication\src\VivaceWebApplication\Data\ApplicationDbContext.cs"
 "D:\Projects\Work\VivaceWebApplication\src\VivaceWebApplication\Data\Migrations\00000000000000_CreateIdentitySchema.cs"
 "D:\Projects\Work\VivaceWebApplication\src\VivaceWebApplication\Data\Migrations\00000000000000_CreateIdentitySchema.Designer.cs"
